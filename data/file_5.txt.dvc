@@ -1,0 +1,15 @@
+outs:
+- md5: 1dcca23355272056f04fe8bf20edfce0
+  size: 2
+  path: file_5.txt
+meta:
+  hkube:
+    id: ser-hc1e
+    name: file_5.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1618995514440
+    hash: 1dcca23355272056f04fe8bf20edfce0
