@@ -1,0 +1,13 @@
+outs:
+- md5: f4848cd0c04288dedb9ccbb351a16dd6
+  size: 17
+  path: file_70.txt
+meta:
+  hkube:
+    id: cli-xymi
+    name: file_70.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148037
+    hash: f4848cd0c04288dedb9ccbb351a16dd6

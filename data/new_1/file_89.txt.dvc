@@ -1,0 +1,13 @@
+outs:
+- md5: e82a3a42067bf13321d26bd40cf0a8bf
+  size: 17
+  path: file_89.txt
+meta:
+  hkube:
+    id: cli-tb2c
+    name: file_89.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148071
+    hash: e82a3a42067bf13321d26bd40cf0a8bf

@@ -1,0 +1,13 @@
+outs:
+- md5: 9e0731e6ff452cbfaccfb98328aa7313
+  size: 17
+  path: file_67.txt
+meta:
+  hkube:
+    id: cli-w9wm
+    name: file_67.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148033
+    hash: 9e0731e6ff452cbfaccfb98328aa7313

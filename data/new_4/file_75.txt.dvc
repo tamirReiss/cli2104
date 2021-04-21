@@ -1,0 +1,13 @@
+outs:
+- md5: 5dce91cab24768b111253698ea23d5c5
+  size: 17
+  path: file_75.txt
+meta:
+  hkube:
+    id: cli-nmq8
+    name: file_75.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148240
+    hash: 5dce91cab24768b111253698ea23d5c5

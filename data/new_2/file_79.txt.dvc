@@ -1,0 +1,13 @@
+outs:
+- md5: 52545c3a2c389f3b985b32805f33197f
+  size: 17
+  path: file_79.txt
+meta:
+  hkube:
+    id: cli-o2dc
+    name: file_79.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148134
+    hash: 52545c3a2c389f3b985b32805f33197f

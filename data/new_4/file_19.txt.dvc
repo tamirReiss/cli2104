@@ -1,0 +1,14 @@
+outs:
+- md5: a0a157c5895cb84068f81bf37ccb091b
+  size: 17
+  path: file_19.txt
+meta:
+  hkube:
+    id: cli-7ui8
+    name: file_19.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148202
+    hash: a0a157c5895cb84068f81bf37ccb091b

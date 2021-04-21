@@ -1,0 +1,13 @@
+outs:
+- md5: b2708511423e7cdb5daebb31edd254ac
+  size: 17
+  path: file_95.txt
+meta:
+  hkube:
+    id: cli-ym97
+    name: file_95.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148080
+    hash: b2708511423e7cdb5daebb31edd254ac

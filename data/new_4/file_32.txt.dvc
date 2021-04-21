@@ -1,0 +1,15 @@
+outs:
+- md5: cb76ba8c3caef160e3237158376427ee
+  size: 17
+  path: file_32.txt
+meta:
+  hkube:
+    id: cli-2jwf
+    name: file_32.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1618995148210
+    hash: cb76ba8c3caef160e3237158376427ee

@@ -1,0 +1,14 @@
+outs:
+- md5: 0103e03650fdb4264a269576356c452b
+  size: 17
+  path: file_55.txt
+meta:
+  hkube:
+    id: cli-s328
+    name: file_55.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1618995148025
+    hash: 0103e03650fdb4264a269576356c452b

@@ -1,0 +1,13 @@
+outs:
+- md5: 6b96632b52e95ba6cb114359024794ff
+  size: 17
+  path: file_81.txt
+meta:
+  hkube:
+    id: cli-hcw2
+    name: file_81.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148243
+    hash: 6b96632b52e95ba6cb114359024794ff

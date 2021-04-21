@@ -1,0 +1,13 @@
+outs:
+- md5: 64e119cd0fe8b37899caf081d492f96b
+  size: 17
+  path: file_98.txt
+meta:
+  hkube:
+    id: cli-gv9h
+    name: file_98.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148248
+    hash: 64e119cd0fe8b37899caf081d492f96b

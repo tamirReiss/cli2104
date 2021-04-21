@@ -1,0 +1,13 @@
+outs:
+- md5: eae09c3dfc95bce4b124bfe614dd58b7
+  size: 17
+  path: file_73.txt
+meta:
+  hkube:
+    id: cli-dcks
+    name: file_73.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148240
+    hash: eae09c3dfc95bce4b124bfe614dd58b7

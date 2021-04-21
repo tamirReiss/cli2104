@@ -1,0 +1,14 @@
+outs:
+- md5: 979813d35334cc3ad26c6c5f2b1e8819
+  size: 16
+  path: file_4.txt
+meta:
+  hkube:
+    id: cli-3vmr
+    name: file_4.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148215
+    hash: 979813d35334cc3ad26c6c5f2b1e8819

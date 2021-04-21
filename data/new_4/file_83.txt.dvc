@@ -1,0 +1,13 @@
+outs:
+- md5: cdaf6fa854069a1345f45026c4c6825d
+  size: 17
+  path: file_83.txt
+meta:
+  hkube:
+    id: cli-jlrq
+    name: file_83.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148244
+    hash: cdaf6fa854069a1345f45026c4c6825d

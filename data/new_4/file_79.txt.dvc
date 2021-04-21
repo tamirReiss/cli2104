@@ -1,0 +1,13 @@
+outs:
+- md5: 510548dbb71c51ea20657496c1b918a7
+  size: 17
+  path: file_79.txt
+meta:
+  hkube:
+    id: cli-pcez
+    name: file_79.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148242
+    hash: 510548dbb71c51ea20657496c1b918a7

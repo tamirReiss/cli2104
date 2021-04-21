@@ -1,0 +1,14 @@
+outs:
+- md5: e84333df61c3c4a150d44282bc2cdabb
+  size: 16
+  path: file_8.txt
+meta:
+  hkube:
+    id: cli-a5s0
+    name: file_8.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148187
+    hash: e84333df61c3c4a150d44282bc2cdabb

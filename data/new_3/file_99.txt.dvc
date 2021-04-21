@@ -1,0 +1,13 @@
+outs:
+- md5: de63e2bb9c9360211c9d0b174c8569ae
+  size: 17
+  path: file_99.txt
+meta:
+  hkube:
+    id: cli-eyv9
+    name: file_99.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148196
+    hash: de63e2bb9c9360211c9d0b174c8569ae

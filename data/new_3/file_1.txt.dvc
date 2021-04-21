@@ -1,0 +1,14 @@
+outs:
+- md5: 21afa45c2ca91b0e8be440678b6af181
+  size: 16
+  path: file_1.txt
+meta:
+  hkube:
+    id: cli-gn0c
+    name: file_1.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148146
+    hash: 21afa45c2ca91b0e8be440678b6af181

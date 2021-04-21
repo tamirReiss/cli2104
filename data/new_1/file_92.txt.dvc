@@ -1,0 +1,13 @@
+outs:
+- md5: f1f2fbcea8781bf92d1dc7c807a18c90
+  size: 17
+  path: file_92.txt
+meta:
+  hkube:
+    id: cli-mz24
+    name: file_92.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148078
+    hash: f1f2fbcea8781bf92d1dc7c807a18c90

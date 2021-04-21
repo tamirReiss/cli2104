@@ -1,0 +1,13 @@
+outs:
+- md5: 952544541852fabc8fbcaa5e5a9b3205
+  size: 17
+  path: file_99.txt
+meta:
+  hkube:
+    id: cli-u8am
+    name: file_99.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148082
+    hash: 952544541852fabc8fbcaa5e5a9b3205

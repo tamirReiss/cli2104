@@ -1,0 +1,13 @@
+outs:
+- md5: f07e3ea9dcb8bd28e86521f62a3b32f0
+  size: 17
+  path: file_94.txt
+meta:
+  hkube:
+    id: cli-k2yd
+    name: file_94.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148247
+    hash: f07e3ea9dcb8bd28e86521f62a3b32f0

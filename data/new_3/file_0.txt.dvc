@@ -1,0 +1,14 @@
+outs:
+- md5: 3198b3628a46ef8feb5f0de4e1c454d5
+  size: 16
+  path: file_0.txt
+meta:
+  hkube:
+    id: cli-6fgf
+    name: file_0.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148146
+    hash: 3198b3628a46ef8feb5f0de4e1c454d5

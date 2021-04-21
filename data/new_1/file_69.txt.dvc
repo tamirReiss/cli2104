@@ -1,0 +1,13 @@
+outs:
+- md5: 033e096537e4d42e5aae2ab15192a33a
+  size: 17
+  path: file_69.txt
+meta:
+  hkube:
+    id: cli-gpt4
+    name: file_69.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148035
+    hash: 033e096537e4d42e5aae2ab15192a33a

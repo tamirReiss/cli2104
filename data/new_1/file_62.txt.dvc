@@ -1,0 +1,13 @@
+outs:
+- md5: e7e3da5d498ff9d9172240393fa9ab81
+  size: 17
+  path: file_62.txt
+meta:
+  hkube:
+    id: cli-7mgf
+    name: file_62.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148031
+    hash: e7e3da5d498ff9d9172240393fa9ab81

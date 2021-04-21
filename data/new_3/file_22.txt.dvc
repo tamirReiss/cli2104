@@ -1,0 +1,14 @@
+outs:
+- md5: 02ee8861a3adb9858a9599db331712bd
+  size: 17
+  path: file_22.txt
+meta:
+  hkube:
+    id: cli-3pvz
+    name: file_22.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1618995148157
+    hash: 02ee8861a3adb9858a9599db331712bd

@@ -1,0 +1,13 @@
+outs:
+- md5: 60a0eb35eb5e56ee252a835249093f73
+  size: 17
+  path: file_62.txt
+meta:
+  hkube:
+    id: cli-4snv
+    name: file_62.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148229
+    hash: 60a0eb35eb5e56ee252a835249093f73

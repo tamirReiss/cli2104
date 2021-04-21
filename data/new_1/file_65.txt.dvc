@@ -1,0 +1,13 @@
+outs:
+- md5: 635b6a84b5bad21a8337da2023bf0d69
+  size: 17
+  path: file_65.txt
+meta:
+  hkube:
+    id: cli-dj1c
+    name: file_65.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148032
+    hash: 635b6a84b5bad21a8337da2023bf0d69

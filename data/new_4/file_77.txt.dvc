@@ -1,0 +1,13 @@
+outs:
+- md5: 46662d36dddbbdfb328fecb70c0e21aa
+  size: 17
+  path: file_77.txt
+meta:
+  hkube:
+    id: cli-wx1f
+    name: file_77.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148241
+    hash: 46662d36dddbbdfb328fecb70c0e21aa

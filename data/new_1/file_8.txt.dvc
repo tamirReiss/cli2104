@@ -1,0 +1,14 @@
+outs:
+- md5: 8a23e7cc1a29b600808a6e9350899a9f
+  size: 16
+  path: file_8.txt
+meta:
+  hkube:
+    id: cli-gei9
+    name: file_8.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148049
+    hash: 8a23e7cc1a29b600808a6e9350899a9f

@@ -1,0 +1,13 @@
+outs:
+- md5: 7e24906c36b656e70ad455b40ec16d17
+  size: 17
+  path: file_97.txt
+meta:
+  hkube:
+    id: cli-ino6
+    name: file_97.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148248
+    hash: 7e24906c36b656e70ad455b40ec16d17

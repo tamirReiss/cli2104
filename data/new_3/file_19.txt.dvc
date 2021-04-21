@@ -1,0 +1,14 @@
+outs:
+- md5: d223c86309ad6aabee6c38a36f85aef1
+  size: 17
+  path: file_19.txt
+meta:
+  hkube:
+    id: cli-jkui
+    name: file_19.txt
+    size: 17
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1618995148155
+    hash: d223c86309ad6aabee6c38a36f85aef1

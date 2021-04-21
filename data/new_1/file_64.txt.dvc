@@ -1,0 +1,13 @@
+outs:
+- md5: f6c8a9deaa4fee267cc1b15013168fe0
+  size: 17
+  path: file_64.txt
+meta:
+  hkube:
+    id: cli-ul9z
+    name: file_64.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1618995148032
+    hash: f6c8a9deaa4fee267cc1b15013168fe0
